@@ -1,2 +1,1 @@
-# HashiVault-Project
-Build Hashicorp vault
+Build Hashicorp vault - Dev environment
